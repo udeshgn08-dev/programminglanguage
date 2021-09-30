@@ -1,3 +1,5 @@
+# Understand the purpose,learn,work with different programming languages and contribute in distributed source code management
+
 # LabSession-Java SE 
 ### Eclipse IDE set with compilation level 1.8 
 ### Set the instructor name as project name 
@@ -13,5 +15,7 @@
 
 # LabSession-C 
 ### Visual studio code with c/c++ extension 
-### Compilation and running programs: GCC, code runner  
+### Compilation and running programs: GCC, code runner   
+
+
 
