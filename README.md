@@ -13,6 +13,5 @@
 
 # LabSession-C 
 ### Visual studio code with c/c++ extension 
-### compilation using gcc 
-### run program using code runner 
+### Compilation and running programs: GCC, code runner  
 
