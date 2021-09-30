@@ -1,7 +1,7 @@
 # LabSession-Java SE 
 ### Eclipse IDE set with compilation level 1.8 
 ### Set the instructor name as project name 
-### Interface font Monospace 12  
+### Interface font Monospace Regular 12  
 ### package name should be easy to remember,and link with other sources like test folder.  
 
 # LabSession-Java EE 
