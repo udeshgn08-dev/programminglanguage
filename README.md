@@ -16,6 +16,7 @@
 # LabSession-C 
 ### Visual studio code with c/c++ extension 
 ### Compilation and running programs: GCC, code runner   
+### ALternative IDE--> Code Blocks for C and C++ 
 
 
 
