@@ -1,7 +1,7 @@
-# Welcome to programming paradigms: C,Java,Html 
-This is a practical course developing by Udeshkumar Ganesan
+# Paradigms of programming languages: C,Java,Html 
+Practical course currently developing by Udeshkumar Ganesan
 
-After working with the three major languages you will understand the purpose of programming languages and also learn to contribute in distributed source code management
+You will learn the purpose of programming languages and make contributions in distributed source code management
 # harvard  
 Eclipse IDE set with compilation level 1.8 
 Create java project
