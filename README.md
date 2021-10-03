@@ -6,7 +6,7 @@
 ### Interface font Monospace Regular,12  
 ### Package name should be easy to remember and link with other sources like test folder.  
 
-# LabSession-Java EE 
+# LabSession-Java Apps
 ### Eclipse or IntelliJ Idea. Minimum compilation level 1.8
 ### Create Dynamic web project
 ### mysql 8
