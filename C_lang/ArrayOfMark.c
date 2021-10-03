@@ -8,6 +8,7 @@ int main(){
     grade[2] = 6.1;
     grade[3] = 6.0;
     grade[4] = 5.5; 
+    grade[5] = 5.4; // Line 11: Trying to access index of array out of range //  
     for(int count=0; count < 10; count++){
     printf("#Mark:%d\n",MarkSet[count]); 
     }
