@@ -1,7 +1,4 @@
-# Paradigms of programming languages: C,Java,HTML
-Practical course currently developing by Udeshkumar Ganesan
-
-You will learn the purpose of programming languages and make contributions in distributed source code management
+### Paradigms of programming languages: C,Java,HTML
 # harvard  
 Eclipse IDE set with compilation level 1.8 
 Create java project
