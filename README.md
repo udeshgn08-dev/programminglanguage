@@ -12,7 +12,7 @@
 ### apache tomcat 9
 ### Package name should be easy to remember,and link with other sources like test folder. 
 
-# C_Lang 
+# C_lang 
 ### Visual studio code with c/c++ extension 
 ### Compilation and running programs: GCC, code runner   
 ### Alternative IDE--> Code::Blocks for C and C++ 
