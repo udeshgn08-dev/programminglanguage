@@ -10,7 +10,7 @@
  *
  *  output:
  *  1's  in coins 10 = 10
- *	2's  in coins 5  = 10
+ *  2's  in coins 5  = 10
  *  5's  in coins 7  = 35
  *  10's in coins 6  = 60 
  *  5's  in note  2  = 10 
