@@ -10,7 +10,7 @@
 package ch02.datatype;
 
 public class SwapNum {
-	// Args variable is the parameter to main method 
+	// Arguments variable is the parameter to main method 
 	public static void main(String[] args) 
 	{
 		// Explicit initialization 
